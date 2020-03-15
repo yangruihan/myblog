@@ -4,11 +4,14 @@ date: 2020-03-13 21:08:27
 tags:
 - 游戏开发
 - 算法
+- AStar
 categories:
 - 游戏开发
 ---
 
 # A* 算法介绍
+
+已联系原作者，取得翻译授权
 
 原文：https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
