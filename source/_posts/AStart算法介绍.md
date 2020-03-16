@@ -5,6 +5,7 @@ tags:
 - 游戏开发
 - 算法
 - AStar
+- 翻译
 categories:
 - 游戏开发
 ---
